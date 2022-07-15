@@ -17,7 +17,7 @@ authors:
 identifiers:
   - type: doi
     value: 10.1007/978-3-319-58821-6
-    description: Pyomo — Optimization Modeling in Python
+    description: "Pyomo — Optimization Modeling in Python"
   - type: doi
     value: 10.1007/s12532-011-0026-8
     description: >-
@@ -26,16 +26,14 @@ identifiers:
 repository-code: 'https://github.com/Pyomo/pyomo'
 url: 'http://www.pyomo.org/'
 preferred-citation:
-  type: article
+  -type: article
   authors:
-  - given-names: Michael
-    family-names: Bynum
-  - given-names: Gabriel
-    family-names: Hackebeil
   - given-names: William
     family-names: Hart
-  - given-names: Carl
-    family-names: Laird
+  - given-names: Jean-Paul
+    family-names: Watson
+  - given-names: David
+    family-names: Woodruff
   doi: "10.1007/s12532-011-0026-8"
   journal: "Mathematical Programming Computation"
   month: 9
@@ -45,3 +43,17 @@ preferred-citation:
   issue: 3
   volume: 3
   year: 2011
+  -type: book
+  authors:
+  - given-names: Michael
+    family-names: Bynum
+  - given-names: Gabriel
+    family-names: Hackebeil
+  - given-names: William
+    family-names: Hart
+  - given-names: Carl
+    family-names: Laird
+  doi: "10.1007/978-3-319-58821-6"
+  titel: "Pyomo — Optimization Modeling in Python"
+  year: 2017
+  
