@@ -42,5 +42,6 @@ preferred-citation:
   start: 219 # First page number
   end: 260 # Last page number
   title: "Pyomo: modeling and solving mathematical programs in Python"
+  issue:3
   volume: 3
   year: 2011
